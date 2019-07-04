@@ -4,6 +4,9 @@ package bstu;
  */
 public class Message {
 
+// Эти измеения сделаны другим пользователем 
+	private String name;
+//---------------------------
     private Integer id;
     private String text = "";
     public Message() {        }
