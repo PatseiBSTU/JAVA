@@ -5,7 +5,7 @@ public class Message {
 // Эти измеения сделаны другим пользователем 
 	private String name;
 //---------------------------
-	// Еще изменения
+	// изменения из intelij
 	//++++++++++++++++++++++++++++++++++++++
     private Integer id;
     private String text = "";
