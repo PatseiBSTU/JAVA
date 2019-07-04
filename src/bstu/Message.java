@@ -1,12 +1,12 @@
 package bstu;
-/**
- * Created by npats on 15.05.2017.
- */
+
 public class Message {
 
 // Эти измеения сделаны другим пользователем 
 	private String name;
 //---------------------------
+	// Еще изменения
+	//++++++++++++++++++++++++++++++++++++++
     private Integer id;
     private String text = "";
     public Message() {        }
