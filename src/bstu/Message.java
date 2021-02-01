@@ -6,8 +6,8 @@ public class Message {
 	private String name;
 
 //---------------------------
-	// Еще изменения
-	//++++++++++++++++++++++++++++++++++++++
+	// Еще изменения  2 февраля
+//++++++++++++++++++++++++++++++++++++++
     private Integer id;
     private String text = "";
     public Message() {        }
