@@ -2,12 +2,11 @@ package bstu;
 
 public class Message {
 
-// Эти измеения сделаны другим пользователем 
+// 2 february N/V/ Patsei
+ 
 	private String name;
 
-//---------------------------
-	// Еще изменения  
-//++++++++++++++++++++++++++++++++++++++
+
     private Integer id;
     private String text = "";
     public Message() {        }
